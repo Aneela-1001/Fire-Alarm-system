@@ -59,7 +59,7 @@ The firmware reads analog values from the MQ-2 sensor and digital input from tes
 > 🔹 See [`fire_alarm_code.ino`](./fire_alarm_code.ino) for full source code.
  Demonstration ▶️ Video
 
->  [`FIRE_ALARM.mp4`](./FIRE_ALARM.mp4)
+>  [`FIRE_ALARM.mp4`](./FIRE_ALARM.mp4.mp4)
 
 
 
